@@ -1,0 +1,15 @@
+D:\source\repos\ConsoleAppYear3\ConsoleApp2Year3\bin\Release\net6.0\ConsoleApp2Year3.exe
+D:\source\repos\ConsoleAppYear3\ConsoleApp2Year3\bin\Release\net6.0\ConsoleApp2Year3.deps.json
+D:\source\repos\ConsoleAppYear3\ConsoleApp2Year3\bin\Release\net6.0\ConsoleApp2Year3.runtimeconfig.json
+D:\source\repos\ConsoleAppYear3\ConsoleApp2Year3\bin\Release\net6.0\ConsoleApp2Year3.dll
+D:\source\repos\ConsoleAppYear3\ConsoleApp2Year3\bin\Release\net6.0\ConsoleApp2Year3.pdb
+D:\source\repos\ConsoleAppYear3\ConsoleApp2Year3\obj\Release\net6.0\ConsoleApp2Year3.csproj.AssemblyReference.cache
+D:\source\repos\ConsoleAppYear3\ConsoleApp2Year3\obj\Release\net6.0\ConsoleApp2Year3.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\ConsoleAppYear3\ConsoleApp2Year3\obj\Release\net6.0\ConsoleApp2Year3.AssemblyInfoInputs.cache
+D:\source\repos\ConsoleAppYear3\ConsoleApp2Year3\obj\Release\net6.0\ConsoleApp2Year3.AssemblyInfo.cs
+D:\source\repos\ConsoleAppYear3\ConsoleApp2Year3\obj\Release\net6.0\ConsoleApp2Year3.csproj.CoreCompileInputs.cache
+D:\source\repos\ConsoleAppYear3\ConsoleApp2Year3\obj\Release\net6.0\ConsoleApp2Year3.dll
+D:\source\repos\ConsoleAppYear3\ConsoleApp2Year3\obj\Release\net6.0\refint\ConsoleApp2Year3.dll
+D:\source\repos\ConsoleAppYear3\ConsoleApp2Year3\obj\Release\net6.0\ConsoleApp2Year3.pdb
+D:\source\repos\ConsoleAppYear3\ConsoleApp2Year3\obj\Release\net6.0\ConsoleApp2Year3.genruntimeconfig.cache
+D:\source\repos\ConsoleAppYear3\ConsoleApp2Year3\obj\Release\net6.0\ref\ConsoleApp2Year3.dll
